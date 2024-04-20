@@ -1,0 +1,2 @@
+- SDK version = graalvm-jdk-21
+- SQL connection = org.xerial:sqlite-jdbc:3.45.3.0
